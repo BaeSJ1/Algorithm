@@ -1,2 +1,3 @@
-from Grid import grid1
-grid1
+from Grid import grid4
+
+grid4
