@@ -1,4 +1,4 @@
 
-from Gragh import graph1_bfs
+from Gragh import graph1_dfs
 
-graph1_bfs
+graph1_dfs
