@@ -1,4 +1,4 @@
 
-from Gragh import graph1_dfs
+from Swea import swea_1954
 
-graph1_dfs
+swea_1954
